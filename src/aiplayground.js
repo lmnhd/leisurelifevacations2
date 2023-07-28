@@ -1,5 +1,6 @@
 import { useState } from "react";
 import {
+  aiCheck,
   gpt35Chat,
   generatePostBody,
   getImageBytes,
@@ -7,10 +8,16 @@ import {
   convertByteArrayToPNG,
   generateExtraInfo,
   generateImage,
+  assistantPrompt,
+
   davinci,
   featuresPrompt,
 } from "./api/openAI";
-import { Typography } from "@material-tailwind/react";
+import { 
+  Accordion,
+  AccordionHeader,
+  AccordionBody,
+  Typography } from "@material-tailwind/react";
 import axios from "axios";
 
 export function AIPlayground() {
@@ -20,13 +27,32 @@ export function AIPlayground() {
   const [extraInfoInfo, setExtraInfo] = useState("");
   const [imagePrompt, setImagePrompt] = useState("");
   const [mainImageUrl, setMainImageUrl] = useState("");
-  const [cruisLine, setCruiseLine] = useState("");
+  const [cruiseLine, setCruiseLine] = useState("");
   const [shipName, setShipName] = useState("");
   const [destination, setDestination] = useState("");
   const [image1, setImage1] = useState(
     "https://images.unsplash.com/photo-1583157048761-ac1dba033233?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
   );
+  const [open, setOpen] = useState(1);
+  
+ 
+  const handleOpen = (value) => {
+    setOpen(open === value ? 0 : value);
+  };
 
+  
+  const testAI = () => {
+    console.log("testing openai")
+    aiCheck();
+
+  }
+  const genericAIMessage = (prompt) => {
+    const message = assistantPrompt(prompt);
+    const result = davinci(message,0.1,cruiseLine,shipName, destination);
+    console.log(result)
+
+
+  }
   const getMessage = async () => {
     const reply = await gpt35Chat();
     //setAIReply(reply);
@@ -37,7 +63,7 @@ export function AIPlayground() {
     const result = davinci(
       featuresPrompt(sectionsInfo),
       0.2,
-      cruisLine,
+      cruiseLine,
       shipName,
       destination
     );
@@ -46,7 +72,7 @@ export function AIPlayground() {
   const getExtras = async () => {
     const result = generateExtraInfo(
       extraInfoInfo,
-      cruisLine,
+      cruiseLine,
       shipName,
       destination
     );
@@ -54,7 +80,7 @@ export function AIPlayground() {
   };
 
   const handleClick = async () => {
-    const result = await generatePostBody(info);
+    const result = await generatePostBody(info,cruiseLine,shipName,destination);
     setAIReply(result);
   };
   const handleImageUrlChange = (event) => {
@@ -125,12 +151,25 @@ export function AIPlayground() {
         variant="h3"
       >
         AI Content Generator
+        
       </Typography>
-      <div className="flex flex-col p-4 bg-gray-100 flex-nowrap">
+      {/* <button
+      className="p-3 mt-4 border-2 border-white rounded-sm bg-blue-gray-100 "
+        
+        value="check"
+        onClick={testAI}
+        >CheckAI</button> */}
+
+<Accordion open={open === 1}>
+        <AccordionHeader onClick={() => handleOpen(1)}>
+          Ship Info
+        </AccordionHeader>
+        <AccordionBody>
+        <div className="flex flex-col p-4 bg-gray-100 flex-nowrap">
         <div className="flex flex-col flex-wrap self-center justify-center w-3/4 gap-4 p-6 align-middle bg-blue-gray-50">
           <input
             type="text"
-            value={cruisLine}
+            value={cruiseLine}
             onChange={(val) => {
               setCruiseLine(val.target.value);
             }}
@@ -156,42 +195,60 @@ export function AIPlayground() {
             className="p-4 border-black rounded-md bg-blue-gray-100 m-b3 border-spacing-3"
           />
         </div>
-        <Typography
-          variant="h4"
-          className="text-center whitespace-pre-line border-black border-b-3"
-        >
-          Post Body Generator
-        </Typography>
-        <textarea
-          className="border-black rounded-md bg-blue-gray-100 m-b3"
-          placeholder="Enter information about a cruise here..."
-          value={info}
-          onChange={(val) => setInfo(val.target.value)}
-        />
-
-        {/* //Send Button */}
-        {destination != "" && shipName != "" ? (
-          <input
-            className="p-3 mt-4 border-2 border-white rounded-sm bg-blue-gray-100 "
-            type="button"
-            value="Send"
-            onClick={handleClick}
-          />
-        ) : (
-          <h3 className="text-black bg-red-400 border-b-2 border-white">
-            !!Set Cruise Name and Destination First!!
-          </h3>
-        )}
-
-        {aiReply != "" && (
-          <p className="p-4 mt-3 font-serif font-bold whitespace-pre-line border-white bg-blue-gray-100 min-h-fit">
-            {aiReply}
-          </p>
-        )}
-        {/* Highlight Sections  */}
+        
       </div>
+        </AccordionBody>
+      </Accordion>
 
-      <div className="flex flex-col flex-wrap p-4 bg-gray-100">
+      <Accordion open={open === 2}>
+        <AccordionHeader onClick={() => handleOpen(2)}>
+        Post Body Generator
+        </AccordionHeader>
+        <AccordionBody>
+        <div className="flex flex-col flex-wrap p-4 bg-gray-100">
+        <Typography
+            variant="h4"
+            className="text-center whitespace-pre-line border-black border-b-3"
+          >
+            Post Body Generator
+          </Typography>
+          <textarea
+            className="border-black rounded-md bg-blue-gray-100 m-b3"
+            placeholder="Enter information about a cruise here..."
+            value={info}
+            onChange={(val) => setInfo(val.target.value)}
+          />
+          {/* //Send Button */}
+          {destination != "" && shipName != "" ? (
+            <input
+              className="p-3 mt-4 border-2 border-white rounded-sm bg-blue-gray-100 "
+              type="button"
+              value="Send"
+              onClick={handleClick}
+            />
+          ) : (
+            <h3 className="text-black bg-red-400 border-b-2 border-white">
+              !!Set Cruise Name and Destination First!!
+            </h3>
+          )}
+          {aiReply != "" && (
+            <p className="p-4 mt-3 font-serif font-bold whitespace-pre-line border-white bg-blue-gray-100 min-h-fit">
+              {aiReply}
+            </p>
+          )}
+         
+      </div>
+        </AccordionBody>
+      </Accordion>
+
+      
+ {/* Highlight Sections  */}
+ <Accordion open={open === 3}>
+        <AccordionHeader onClick={() => handleOpen(3)}>
+        Sections Generator
+        </AccordionHeader>
+        <AccordionBody>
+        <div className="flex flex-col flex-wrap p-4 bg-gray-100">
         <Typography
           variant="h4"
           className="text-center whitespace-pre-line border-black border-b-3"
@@ -218,8 +275,16 @@ export function AIPlayground() {
           </h3>
         )}
       </div>
+        </AccordionBody>
+      </Accordion>
+      
           {/* EXTRA INFO SECTION */}
-      <div className="flex flex-col p-4 bg-gray-100 flex-nowrap">
+          <Accordion open={open === 4}>
+        <AccordionHeader onClick={() => handleOpen(4)}>
+        Extras Generator
+        </AccordionHeader>
+        <AccordionBody>
+        <div className="flex flex-col p-4 bg-gray-100 flex-nowrap">
       <Typography
           variant="h4"
           className="text-center whitespace-pre-line border-black border-b-3"
@@ -246,6 +311,9 @@ export function AIPlayground() {
           </h3>
         )}
       </div>
+        </AccordionBody>
+      </Accordion>
+      
       {/* Image 1 uploader */}
       {/* <div className="flex flex-col items-center w-1/2 gap-3 p-4 m-5">
           <img placeholder="" src={image1} />
@@ -262,7 +330,12 @@ export function AIPlayground() {
         </div> */}
 
       {/* Image  prompter */}
-      <div className="flex flex-col items-center justify-center gap-3 p-4 m-5">
+      <Accordion open={open === 5}>
+        <AccordionHeader onClick={() => handleOpen(5)}>
+        Create Photograph
+        </AccordionHeader>
+        <AccordionBody>
+        <div className="flex flex-col items-center justify-center gap-3 p-4 m-5">
         {mainImageUrl != "" && (
           <img className="" placeholder="" src={mainImageUrl} />
         )}
@@ -284,6 +357,9 @@ export function AIPlayground() {
           Generate Image
         </button>
       </div>
+        </AccordionBody>
+      </Accordion>
+      
 
       
     </>

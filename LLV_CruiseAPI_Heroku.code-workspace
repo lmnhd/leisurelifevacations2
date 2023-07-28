@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../CruiseAPI_Heroku"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Hotels_v2"
+		}
+	],
+	"settings": {}
+}

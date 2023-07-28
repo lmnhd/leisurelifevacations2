@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import App, {load, LoadPosts} from "./App";
+import App, { load, LoadPosts } from "./App";
 import { ThemeProvider } from "@material-tailwind/react";
 import reportWebVitals from "./reportWebVitals";
 import PostForm from "./PostForm";
@@ -12,13 +12,33 @@ import Header from "./Header";
 import UpdatePost from "./UpdatePost";
 import Footer from "./Footer";
 import { AIPlayground } from "./aiplayground";
+import EditPosts from "./EditPosts";
+import SearchForm from "./searchCruiseAPI/SearchForm";
+import ShowResult, { LoadCruiseData } from "./searchCruiseAPI/ShowResult";
+import 'semantic-ui-css/semantic.min.css'
+import Home from "./Pages/Home";
+import HomeVideoImage from "./Components/Layout/HomeVideoImage";
 
-
-const router = createBrowserRouter([
+export const appRoutes = [
   {
     path: "/",
-    element: <App />,
-    loader: LoadPosts
+    element: <Home />,
+    loader: LoadPosts,
+  },
+  {
+    path: "/pg",
+    element: <HomeVideoImage />,
+    loader: LoadPosts,
+  },
+  {
+    path: "/editPosts",
+    element: <EditPosts />,
+    loader: LoadPosts,
+  },
+  {
+    path: "/updatepost/:id",
+    element: <UpdatePost />,
+    loader: LoadPost,
   },
   {
     path: "/addPost",
@@ -29,25 +49,28 @@ const router = createBrowserRouter([
     element: <Post post={null} update={false} />,
     loader: LoadPost,
   },
-  {
-    path: "/updatepost",
-    element: <UpdatePost />,
-    loader: LoadPost,
-  },
+
   {
     path: "/aipg",
     element: <AIPlayground />,
-    
   },
-]);
+  {
+    path: "/search",
+    element: <SearchForm />
+  },
+  {
+    path: "/searchresult/:cruise/:ship",
+    element: <ShowResult />,
+    loader: LoadCruiseData
+  },
+
+];
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <ThemeProvider>
-      <Header />
-        <RouterProvider router={router} />
-      <Footer />
+      <App/>
     </ThemeProvider>
   </React.StrictMode>
 );

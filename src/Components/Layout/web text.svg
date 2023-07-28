@@ -1,0 +1,19 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080" xml:space="preserve">
+  <style>
+    .st0{fill:none}.st1{fill:#00f}.st2{font-family:&apos;MalgunGothicBold&apos;}.st3{font-size:89px}.st4{font-family:&apos;LucidaHandwriting-Italic&apos;}.st5{font-size:88px}
+  </style>
+  <path class="st0" d="M67.14 350.71h885.71v425.71H67.14z"/>
+  <text transform="translate(183.277 418.29)"><tspan x="0" y="0" class="st1 st2 st3">YOUR FIRST STOP </tspan><tspan x="22.86" y="128" class="st1 st2 st3">ON A FANTASTIC </tspan><tspan x="411.97" y="256" class="st1 st2 st3">VOYAGE</tspan></text>
+  <path class="st0" d="M986.14 751.14H1766v338.57H986.14z"/>
+  <text transform="translate(986.143 826.383)"><tspan x="0" y="0" class="st4 st5">we’ll make it </tspan><tspan x="0" y="128" class="st4 st5">happen</tspan></text>
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="968" y1="658.5" x2="977" y2="658.5">
+    <stop offset="0" style="stop-color:#2aff85"/>
+    <stop offset=".066" style="stop-color:#29f68a"/>
+    <stop offset=".175" style="stop-color:#27dc97"/>
+    <stop offset=".315" style="stop-color:#24b3ac"/>
+    <stop offset=".478" style="stop-color:#207ac9"/>
+    <stop offset=".551" style="stop-color:#1e5ed7"/>
+    <stop offset=".994" style="stop-color:#001297"/>
+  </linearGradient>
+  <path style="opacity:.7;fill:url(#SVGID_1_);stroke:#29abe2;stroke-width:2;stroke-miterlimit:10" d="M968 347h9v623h-9z"/>
+</svg>

@@ -1,0 +1,785 @@
+{
+    "data": {
+        "mainInfo": {
+            "dealNumber": 34588,
+            "dealName": "6 nights departing November 19",
+            "cruiseLine": "MSC Cruises",
+            "shipName": "MSC Seaside",
+            "prices": [
+                [
+                    {
+                        "label": "Brochure Inside",
+                        "amount": "$859"
+                    },
+                    {
+                        "label": "Our Inside",
+                        "amount": "$379"
+                    },
+                    {
+                        "label": "Military Rate",
+                        "amount": "$366"
+                    },
+                    {
+                        "label": "You Save",
+                        "amount": "57%"
+                    }
+                ],
+                [
+                    {
+                        "label": "Brochure Oceanview",
+                        "amount": "$1,099"
+                    },
+                    {
+                        "label": "Our Oceanview",
+                        "amount": "$499"
+                    },
+                    {
+                        "label": "Military Rate",
+                        "amount": "$480"
+                    },
+                    {
+                        "label": "You Save",
+                        "amount": "56%"
+                    }
+                ],
+                [
+                    {
+                        "label": "Brochure Balcony",
+                        "amount": "$1,339"
+                    },
+                    {
+                        "label": "Our Balcony",
+                        "amount": "$619"
+                    },
+                    {
+                        "label": "Military Rate",
+                        "amount": "$569"
+                    },
+                    {
+                        "label": "You Save",
+                        "amount": "58%"
+                    }
+                ],
+                [
+                    {
+                        "label": "Brochure Suite",
+                        "amount": "$2,279"
+                    },
+                    {
+                        "label": "Our Suite",
+                        "amount": "$1,089"
+                    },
+                    {
+                        "label": "Military Rate",
+                        "amount": "$992"
+                    },
+                    {
+                        "label": "You Save",
+                        "amount": "56%"
+                    }
+                ]
+            ],
+            "important": "Prices are in US dollars, per person, based on double occupancy. Prices are subject to change without notice by cruise lines until a deposit has been made, and must be reconfirmed at time of booking. Prices include port charges but do not include airfare or (where applicable) airport or government taxes or fees. Prices and promotions are for new bookings only, in accordance with cruise line policies. Click any price to convert to other currencies."
+        },
+        "itinerary": {
+            "itineraryMap": "https://assets.vacationstogo.com/images/deal_images/34588_221118163507663.jpg",
+            "dates": [
+                {
+                    "location": "Port Canaveral, FL",
+                    "time": "7:00pm",
+                    "date": "Sunday, November 19",
+                    "raw": "\n              <td nowrap=\"\">\n                Sunday, November 19   \n              </td>\n              <td> <a href=\"/cruiseports/viewport.cfm?port=305\" target=\"_blank\">Port Canaveral, FL</a> </td>\n              <td></td>\n              <td>7:00pm</td>\n            "
+                },
+                {
+                    "location": "Ocean Cay Marine Reserve, Bahamas",
+                    "time": "6:00pm",
+                    "date": "Monday, November 20",
+                    "raw": "\n              <td nowrap=\"\">\n                Monday, November 20   \n              </td>\n              <td> <a href=\"/cruiseports/viewport.cfm?port=2621\" target=\"_blank\">Ocean Cay Marine Reserve, Bahamas</a> </td>\n              <td>8:00am</td>\n              <td>6:00pm</td>\n            "
+                },
+                {
+                    "location": "At Sea",
+                    "time": "",
+                    "date": "Tuesday, November 21",
+                    "raw": "\n              <td nowrap=\"\">\n                Tuesday, November 21   \n              </td>\n              <td> At Sea</td>\n              <td></td>\n              <td></td>\n            "
+                },
+                {
+                    "location": "At Sea",
+                    "time": "",
+                    "date": "Wednesday, November 22",
+                    "raw": "\n              <td nowrap=\"\">\n                Wednesday, November 22   \n              </td>\n              <td> At Sea</td>\n              <td></td>\n              <td></td>\n            "
+                },
+                {
+                    "location": "St. Maarten",
+                    "time": "7:00pm",
+                    "date": "Thursday, November 23",
+                    "raw": "\n              <td nowrap=\"\">\n                Thursday, November 23   \n              </td>\n              <td> <a href=\"/cruiseports/viewport.cfm?port=230\" target=\"_blank\">St. Maarten</a> </td>\n              <td>8:00am</td>\n              <td>7:00pm</td>\n            "
+                },
+                {
+                    "location": "Antigua",
+                    "time": "7:00pm",
+                    "date": "Friday, November 24",
+                    "raw": "\n              <td nowrap=\"\">\n                Friday, November 24   \n              </td>\n              <td> <a href=\"/cruiseports/viewport.cfm?port=9\" target=\"_blank\">Antigua</a> </td>\n              <td>8:00am</td>\n              <td>7:00pm</td>\n            "
+                },
+                {
+                    "location": "Fort-de-France, Martinique",
+                    "time": "",
+                    "date": "Saturday, November 25",
+                    "raw": "\n              <td nowrap=\"\">\n                Saturday, November 25   \n              </td>\n              <td> <a href=\"/cruiseports/viewport.cfm?port=693\" target=\"_blank\">Fort-de-France, Martinique</a> </td>\n              <td>7:00am</td>\n              <td></td>\n            "
+                }
+            ]
+        },
+        "ship": {
+            "name": "MSC Seaside",
+            "rating": 5,
+            "description": "The MSC Seaside is the first ship in the MSC fleet to be christened in the United States. This new generation of cruise ship boasts revolutionary architecture and cutting-edge technology that is sure to suit all passengers who come aboard. The ship is designed for the warm weather of the Caribbean and as such, offers a unique wrap-around waterfront promenade. Along the promenade, guests will find various places to shop and eat, as well as sunbathing locations that provide beautiful panoramic sea views. The MSC Seaside has connecting inside and outside public areas throughout its decks, and passengers will find the private accommodations to be elegant and luxurious.\nThe ship also offers an Aquapark that is one of the largest and most interactive found at sea. The MSC Seaside is the first cruise ship to feature Slideboarding technology, as well. This technology combines a slide with an interactive game and provides lasting fun for the whole family. Additionally, members of the MSC Yacht Club will discover a place to indulge in secluded luxury while still participating in all of the recreation and entertainment that the rest of the ship has to offer.",
+            "info": [
+                {
+                    "label": "Year Built",
+                    "value": "2017"
+                },
+                {
+                    "label": "Tonnage",
+                    "value": "160,000 tons"
+                },
+                {
+                    "label": "Registry",
+                    "value": "Panama"
+                },
+                {
+                    "label": "Length",
+                    "value": "1,060 feet"
+                },
+                {
+                    "label": "Beam",
+                    "value": "135 feet"
+                },
+                {
+                    "label": "Passenger Capacity",
+                    "value": "5,429"
+                },
+                {
+                    "label": "Crew Size",
+                    "value": "1,413"
+                },
+                {
+                    "label": "# of Inside Cabins",
+                    "value": "460"
+                },
+                {
+                    "label": "# of Outside Cabins",
+                    "value": "1,607"
+                },
+                {
+                    "label": "# of Cabins w/ Verandas",
+                    "value": "1519"
+                },
+                {
+                    "label": "# of Suites",
+                    "value": "216"
+                },
+                {
+                    "label": "Max. Room Occupancy",
+                    "value": "10"
+                },
+                {
+                    "label": "Dining Options",
+                    "value": "click here"
+                },
+                {
+                    "label": "Tipping Expected?",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Onboard Currency",
+                    "value": "US Dollar"
+                },
+                {
+                    "label": "Bars/Lounges",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Beauty Salon/Barber Shop",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Casino",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Chapel",
+                    "value": "No"
+                },
+                {
+                    "label": "Disco/Dancing",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Elevators",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Hot Tub",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Cell Phone Service",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Internet Center",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Wireless Internet Access",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Laundromats (self service)",
+                    "value": "No"
+                },
+                {
+                    "label": "Laundry/Dry Cleaning",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Library",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Movie Theatre",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Outdoor Movie Screen",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Onboard Weddings",
+                    "value": "No"
+                },
+                {
+                    "label": "Shops",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Showroom",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Spa",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Video Arcade",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Basketball Court",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Fitness Center",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Golf Driving Net",
+                    "value": "No"
+                },
+                {
+                    "label": "Golf Simulator",
+                    "value": "No"
+                },
+                {
+                    "label": "Ice Skating Rink",
+                    "value": "No"
+                },
+                {
+                    "label": "Jogging Track",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Mini-Golf Course",
+                    "value": "No"
+                },
+                {
+                    "label": "Rock Climbing Wall",
+                    "value": "No"
+                },
+                {
+                    "label": "Swimming Pool",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Tennis Court",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Water Slide",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Water Sports Platform",
+                    "value": "No"
+                },
+                {
+                    "label": "24-Hour Room Service",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Hair Dryer",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Safe",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Telephone",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Television",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Babysitting",
+                    "value": "No"
+                },
+                {
+                    "label": "Children's Playroom",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Kiddie Pool",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Supervised Youth Program",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Teen Center",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Water Playground/Splash Park",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Adjoining Cabins     (private connecting doors)",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Kosher Meals",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Single Occupancy Cabins",
+                    "value": "Yes"
+                },
+                {
+                    "label": "Single Share Program",
+                    "value": "No"
+                },
+                {
+                    "label": "Wheelchair-Accessible Cabins",
+                    "value": "52"
+                }
+            ],
+            "raw": "<head></head><body><div class=\"row\">\n<div class=\"col-12\">\n<div id=\"div_ship_header\">\n<h1>MSC Seaside</h1>\n</div>\n<div class=\"fastdeal-tab-ship-rating\">\n<img src=\"/images/star3.png\" style=\"margin-bottom:0.25em;\"><img src=\"/images/star3.png\" style=\"margin-bottom:0.25em;\"><img src=\"/images/star3.png\" style=\"margin-bottom:0.25em;\"><img src=\"/images/star3.png\" style=\"margin-bottom:0.25em;\"><img src=\"/images/star3.png\" style=\"margin-bottom:0.25em;\">\n</div>\n<div id=\"div_ship_description\">\nThe MSC Seaside is the first ship in the MSC fleet to be christened in the United States. This new generation of cruise ship boasts revolutionary architecture and cutting-edge technology that is sure to suit all passengers who come aboard. The ship is designed for the warm weather of the Caribbean and as such, offers a unique wrap-around waterfront promenade. Along the promenade, guests will find various places to shop and eat, as well as sunbathing locations that provide beautiful panoramic sea views. The MSC Seaside has connecting inside and outside public areas throughout its decks, and passengers will find the private accommodations to be elegant and luxurious.\n<br><br>The ship also offers an Aquapark that is one of the largest and most interactive found at sea. The MSC Seaside is the first cruise ship to feature Slideboarding technology, as well. This technology combines a slide with an interactive game and provides lasting fun for the whole family. Additionally, members of the MSC Yacht Club will discover a place to indulge in secluded luxury while still participating in all of the recreation and entertainment that the rest of the ship has to offer.\n<br>\n</div>\n<br>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-6\">\n<table border=\"0\" class=\"table table-striped table-hover\">\n<tbody><tr>\n<td colspan=\"2\" class=\"ship_header\">Ship Statistics</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Year Built\n</td>\n<td class=\"table_ship_amenities_data\">2017</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Tonnage</td>\n<td class=\"table_ship_amenities_data\">160,000 tons</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Registry</td>\n<td class=\"table_ship_amenities_data\">Panama</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Length</td>\n<td class=\"table_ship_amenities_data\">1,060 feet</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Beam</td>\n<td class=\"table_ship_amenities_data\">135 feet</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Passenger Capacity\n</td>\n<td class=\"table_ship_amenities_data\">5,429</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Crew Size</td>\n<td class=\"table_ship_amenities_data\">1,413</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\"># of Inside Cabins</td>\n<td class=\"table_ship_amenities_data\">460</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\"># of Outside Cabins</td>\n<td class=\"table_ship_amenities_data\">1,607</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\"># of Cabins w/ Verandas</td>\n<td class=\"table_ship_amenities_data\">1519</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\"># of Suites</td>\n<td class=\"table_ship_amenities_data\">216</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Max. Room Occupancy</td>\n<td class=\"table_ship_amenities_data\">10</td>\n</tr>\n<tr>\n<td colspan=\"2\" class=\"table_ship_statistics_label_data\">\nAge Restrictions\n<br><div>One person must be 21 or older</div>\n</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Dining Options</td>\n<td class=\"table_ship_amenities_data\"><a href=\"javascript:switchTab('shipInfo_E');\">click here</a></td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Tipping Expected?</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr>\n<td colspan=\"2\" class=\"table_ship_statistics_label_data\">\nTipping Guidelines\n<br><div>MSC Cruises will automatically add $10.00-$14.50 per day, per guest to your onboard account (depending on the region of the cruise). These amounts cannot be adjusted onboard. A 15% tip is added to all beverage orders. The service charge for children between the ages of 2 and 11 will be 50% less than adult fees, and no charge is added for children under the age of 2.</div>\n</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Onboard Currency</td>\n<td class=\"table_ship_amenities_data\">US Dollar</td>\n</tr>\n</tbody></table>\n</div>\n<div class=\"col-6\">\n<table id=\"table_ship_amenities\" border=\"0\" class=\"table table-striped table-hover\">\n<tbody><tr>\n<td colspan=\"2\" class=\"ship_header\">Services &amp; Amenities</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Bars/Lounges</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Beauty Salon/Barber Shop</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Casino</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Chapel</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Disco/Dancing</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Elevators</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Hot Tub</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Cell Phone Service</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Internet Center</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Wireless Internet Access</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Laundromats (self service)</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Laundry/Dry Cleaning</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Library</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Movie Theatre</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Outdoor Movie Screen</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Onboard Weddings</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Shops</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Showroom</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Spa</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Video Arcade</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr>\n<td colspan=\"2\" class=\"ship_header\">Fitness &amp; Sports Facilities</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Basketball Court</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Fitness Center</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Golf Driving Net</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Golf Simulator</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Ice Skating Rink</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Jogging Track</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Mini-Golf Course</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Rock Climbing Wall</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Swimming Pool</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Tennis Court</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Water Slide</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Water Sports Platform</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr>\n<td colspan=\"2\" class=\"ship_header\">Cabin Features &amp; Amenities</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">24-Hour Room Service</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Hair Dryer</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Safe</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Telephone</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Television</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr>\n<td colspan=\"2\" class=\"ship_header\">Kids Facilities</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Babysitting</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Children's Playroom</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Kiddie Pool</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Supervised Youth Program</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Teen Center</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Water Playground/Splash Park</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr>\n<td colspan=\"2\" class=\"ship_header\">Special Needs &amp; Requests</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Adjoining Cabins<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(private connecting doors)</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Kosher Meals</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Single Occupancy Cabins</td>\n<td class=\"table_ship_amenities_data\">Yes</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Single Share Program</td>\n<td class=\"table_ship_amenities_data\">No</td>\n</tr>\n<tr class=\"ship_data\">\n<td class=\"ship_label\">Wheelchair-Accessible Cabins</td>\n<td class=\"table_ship_amenities_data\">52</td>\n</tr>\n</tbody></table>\n</div>\n</div> </body>"
+        },
+        "photos": [
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/small ship20.jpg",
+                "caption": "MSC Seaside"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/60_9.jpg",
+                "caption": "Miami Beach Pool"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/Yacht Club pool.jpg",
+                "caption": "Yacht Club"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/Aqua Park4.jpg",
+                "caption": "Aqua Park"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/63_9.jpg",
+                "caption": "Forest Aquaventure Park"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/61_10.jpg",
+                "caption": "MSC Aurea Spa"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/News & Comedy Club Bar.jpg",
+                "caption": "News & Comedy Club Bar"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/5_63.jpg",
+                "caption": "Sport Bar"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/6_55.jpg",
+                "caption": "Aurea Bar"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/7_51.jpg",
+                "caption": "Champagne Bar"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/8_47.jpg",
+                "caption": "Garage Club"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/9_47.jpg",
+                "caption": "Haven Lounge"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/10_48.jpg",
+                "caption": "Jungle Bar"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/11_44.jpg",
+                "caption": "Miami Beach Bar"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/12_45.jpg",
+                "caption": "Miami Casino"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/13_39.jpg",
+                "caption": "Seaside Bar"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/14_38.jpg",
+                "caption": "Shine Bar"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/15_39.jpg",
+                "caption": "South Beach"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/16_33.jpg",
+                "caption": "Top Sail Lounge"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/17_31.jpg",
+                "caption": ""
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/1_56.jpg",
+                "caption": "Bowling"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/59_9.jpg",
+                "caption": "Waterfront Boardwalk"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/62_10.jpg",
+                "caption": "Gym"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/33_16.jpg",
+                "caption": "Metropolitan Theater"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/2_62.jpg",
+                "caption": "Baby Club"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/3_65.jpg",
+                "caption": "Mini and Juniors Club"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/4_56.jpg",
+                "caption": "Venchi 1878 Chocolate Bar"
+            },
+            {
+                "src": "https://assets.vacationstogo.com/images/ship_pics/4 deck atrium.jpg",
+                "caption": "Four Deck Atrium"
+            }
+        ],
+        "cabin": [
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_YC3\" id=\"catAnchor_YC3\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5663R20211201162715822.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category YC3 (MSC Yacht Club Royal Suite)</b>\n            </div>\n\n            Comfortable king bed. Balcony with a private whirlpool bath and dining table. Separate living area and dining room. Spacious closet. Bathroom with shower and bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Complimentary Wi-Fi. Approx. 667 ft2 with a balcony that is approx. 355 ft2. Discover a world of privileges with MSC Yacht Club. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5663R20211201162715822.jpg",
+                "category": "Category YC3 (MSC Yacht Club Royal Suite)",
+                "description": "Category YC3 (MSC Yacht Club Royal Suite)\n            \n\n            Comfortable king bed. Balcony with a private whirlpool bath and dining table. Separate living area and dining room. Spacious closet. Bathroom with shower and bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Complimentary Wi-Fi. Approx. 667 ft2 with a balcony that is approx. 355 ft2. Discover a world of privileges with MSC Yacht Club."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_YC1\" id=\"catAnchor_YC1\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5661R20211201162553466.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category YC1 (MSC Yacht Club Deluxe Suite)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Walk-in closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Complimentary Wi-Fi. Accommodates up to 5 guests. Approx. 269 ft2 with a balcony that is approx. 86 ft2. Discover a world of privileges with MSC Yacht Club. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5661R20211201162553466.jpg",
+                "category": "Category YC1 (MSC Yacht Club Deluxe Suite)",
+                "description": "Category YC1 (MSC Yacht Club Deluxe Suite)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Walk-in closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Complimentary Wi-Fi. Accommodates up to 5 guests. Approx. 269 ft2 with a balcony that is approx. 86 ft2. Discover a world of privileges with MSC Yacht Club."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_YIN\" id=\"catAnchor_YIN\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5662R20211201162442310.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category YIN (MSC Yacht Club Interior Suite)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Complimentary Wi-Fi. Approx. 226 ft2. Discover a world of privileges with MSC Yacht Club. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5662R20211201162442310.jpg",
+                "category": "Category YIN (MSC Yacht Club Interior Suite)",
+                "description": "Category YIN (MSC Yacht Club Interior Suite)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Complimentary Wi-Fi. Approx. 226 ft2. Discover a world of privileges with MSC Yacht Club."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_SD\" id=\"catAnchor_SD\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5652R20211201162324740.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category SD (Two-Bedroom Grand Suite Aurea)</b>\n            </div>\n\n            Two-bedroom Suite- Bedroom 1: Comfortable king bed. Bedroom 2: Two single beds. Walk-in closet.  Two bathrooms- Bathroom 1: Shower, vanity area and hairdryer.  Bathroom 2: Bathtub, vanity area and hairdryer. Balcony. Sitting area with sofa or separate living area. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Accommodates up to 5 guests. Approx. 527 ft2 with a balcony that is approx. 183 ft2 Decks. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5652R20211201162324740.jpg",
+                "category": "Category SD (Two-Bedroom Grand Suite Aurea)",
+                "description": "Category SD (Two-Bedroom Grand Suite Aurea)\n            \n\n            Two-bedroom Suite- Bedroom 1: Comfortable king bed. Bedroom 2: Two single beds. Walk-in closet.  Two bathrooms- Bathroom 1: Shower, vanity area and hairdryer.  Bathroom 2: Bathtub, vanity area and hairdryer. Balcony. Sitting area with sofa or separate living area. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Accommodates up to 5 guests. Approx. 527 ft2 with a balcony that is approx. 183 ft2 Decks."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_SX\" id=\"catAnchor_SX\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5655R20211201162024680.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category SX (Grand Suite Aurea)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa or separate living area. Walk-in closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 377-527 ft2 with a balcony that is approx. 183 ft2. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5655R20211201162024680.jpg",
+                "category": "Category SX (Grand Suite Aurea)",
+                "description": "Category SX (Grand Suite Aurea)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa or separate living area. Walk-in closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 377-527 ft2 with a balcony that is approx. 183 ft2."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_SLW\" id=\"catAnchor_SLW\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5647R20211201161912504.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category SLW (Premium Suite Aurea with Whirlpool)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Balcony with a private whirlpool bath. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Accommodates up to 5 guests. Approx. 301 ft2 with a balcony that is approx. 75 ft2. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5647R20211201161912504.jpg",
+                "category": "Category SLW (Premium Suite Aurea with Whirlpool)",
+                "description": "Category SLW (Premium Suite Aurea with Whirlpool)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Balcony with a private whirlpool bath. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Accommodates up to 5 guests. Approx. 301 ft2 with a balcony that is approx. 75 ft2."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_SLT\" id=\"catAnchor_SLT\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category SLT (Premium Suite Aurea with Terrace)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 280-344 ft2 with a balcony that is approx. 97- 151 ft2. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/",
+                "category": "Category SLT (Premium Suite Aurea with Terrace)",
+                "description": "Category SLT (Premium Suite Aurea with Terrace)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 280-344 ft2 with a balcony that is approx. 97- 151 ft2."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_SL1\" id=\"catAnchor_SL1\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5651R20211201161644224.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category SL1 (Premium Suite Aurea)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 280-344 ft2 with a balcony that is approx. 97- 151 ft2. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5651R20211201161644224.jpg",
+                "category": "Category SL1 (Premium Suite Aurea)",
+                "description": "Category SL1 (Premium Suite Aurea)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 280-344 ft2 with a balcony that is approx. 97- 151 ft2."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_SR1\" id=\"catAnchor_SR1\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5654R2021120116152046.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category SR1 (Deluxe Suite Aurea)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 215 ft2 with a balcony that is approx. 86. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5654R2021120116152046.jpg",
+                "category": "Category SR1 (Deluxe Suite Aurea)",
+                "description": "Category SR1 (Deluxe Suite Aurea)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 215 ft2 with a balcony that is approx. 86."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_SM\" id=\"catAnchor_SM\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5653R20211201161411480.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category SM (Junior Suite Aurea)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 183 ft2 with a balcony that is approx. 172 ft2. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5653R20211201161411480.jpg",
+                "category": "Category SM (Junior Suite Aurea)",
+                "description": "Category SM (Junior Suite Aurea)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 183 ft2 with a balcony that is approx. 172 ft2."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_BA\" id=\"catAnchor_BA\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5656R2021120115532355.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category BA (Balcony Aurea)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 183 ft2 with a balcony that is approx. 97 ft2. *Some staterooms have a metal balcony front, instead of glass. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5656R2021120115532355.jpg",
+                "category": "Category BA (Balcony Aurea)",
+                "description": "Category BA (Balcony Aurea)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 183 ft2 with a balcony that is approx. 97 ft2. *Some staterooms have a metal balcony front, instead of glass."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_BR4\" id=\"catAnchor_BR4\"></a>\n            \n              <a name=\"catAnchor_BR3\" id=\"catAnchor_BR3\"></a>\n            \n              <a name=\"catAnchor_BR2\" id=\"catAnchor_BR2\"></a>\n            \n              <a name=\"catAnchor_BR1\" id=\"catAnchor_BR1\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5645R2021120115512538.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category BR4, BR3, BR2, BR1 (Deluxe balcony)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 172-183 ft2 with a balcony that is approx. 54 ft2. *Some staterooms have a metal balcony front, instead of glass. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5645R2021120115512538.jpg",
+                "category": "Category BR4, BR3, BR2, BR1 (Deluxe balcony)",
+                "description": "Category BR4, BR3, BR2, BR1 (Deluxe balcony)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Balcony. Sitting area with sofa. Spacious closet. Bathroom with shower or bathtub, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 172-183 ft2 with a balcony that is approx. 54 ft2. *Some staterooms have a metal balcony front, instead of glass."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_OR1\" id=\"catAnchor_OR1\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5660R20211201154514640.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category OR1 (Deluxe Ocean View)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Window with sea view. Relaxing armchair. Spacious closet. Bathroom with shower, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 183 ft2. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5660R20211201154514640.jpg",
+                "category": "Category OR1 (Deluxe Ocean View)",
+                "description": "Category OR1 (Deluxe Ocean View)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Window with sea view. Relaxing armchair. Spacious closet. Bathroom with shower, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 183 ft2."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_OB\" id=\"catAnchor_OB\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5650R20211201154403497.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category OB (Oceanview Bella (Possible Obstructed View))</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Window with sea view. Relaxing armchair. Spacious closet. Bathroom with shower, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 183 ft2. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5650R20211201154403497.jpg",
+                "category": "Category OB (Oceanview Bella (Possible Obstructed View))",
+                "description": "Category OB (Oceanview Bella (Possible Obstructed View))\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Window with sea view. Relaxing armchair. Spacious closet. Bathroom with shower, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Approx. 183 ft2."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_IL1\" id=\"catAnchor_IL1\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R7834R2021120115335968.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category IL1 (Premium Interior)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Spacious closet. Bathroom with shower, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Accommodates up to 5 guests Approx. 301 ft2. *Some staterooms for guests with disabilities or reduced mobility have twin beds that can’t be converted into king bed. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R7834R2021120115335968.jpg",
+                "category": "Category IL1 (Premium Interior)",
+                "description": "Category IL1 (Premium Interior)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Spacious closet. Bathroom with shower, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Accommodates up to 5 guests Approx. 301 ft2. *Some staterooms for guests with disabilities or reduced mobility have twin beds that can’t be converted into king bed."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_IR2\" id=\"catAnchor_IR2\"></a>\n            \n              <a name=\"catAnchor_IR1\" id=\"catAnchor_IR1\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5658R20211201153249640.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category IR2, IR1 (Deluxe Interior)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Spacious closet. Bathroom with shower, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Accommodates up to 5 guests. Approx. 151-183 ft2. *Some staterooms for guests with disabilities or reduced mobility have twin beds that can’t be converted into king bed. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5658R20211201153249640.jpg",
+                "category": "Category IR2, IR1 (Deluxe Interior)",
+                "description": "Category IR2, IR1 (Deluxe Interior)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Spacious closet. Bathroom with shower, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Accommodates up to 5 guests. Approx. 151-183 ft2. *Some staterooms for guests with disabilities or reduced mobility have twin beds that can’t be converted into king bed."
+            },
+            {
+                "raw": "\n          <td style=\"width:310px;\" valign=\"top\">\n            \n            \n              <a name=\"catAnchor_IB\" id=\"catAnchor_IB\"></a>\n            \n\n            <img src=\"https://assets.vacationstogo.com/images/deck_plans_rooms/984R5649R20211201153124119.jpg\" style=\"max-width:290px;\">\n          </td>\n\n          <td valign=\"top\">\n            <div style=\"margin-bottom:5px;\">\n              <b>Category IB (Interior Bella)</b>\n            </div>\n\n            Comfortable king bed that can be converted into two single beds on request. Spacious closet. Bathroom with shower, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Accommodates up to 5 guests. Approx. 151-301 ft2. *Some staterooms for guests with disabilities or reduced mobility have twin beds that can’t be converted into king bed. \n          </td>\n        ",
+                "img": "https://assets.vacationstogo.com/images/deck_plans_rooms/984R5649R20211201153124119.jpg",
+                "category": "Category IB (Interior Bella)",
+                "description": "Category IB (Interior Bella)\n            \n\n            Comfortable king bed that can be converted into two single beds on request. Spacious closet. Bathroom with shower, vanity area and hairdryer. Interactive TV, telephone, safe and minibar. Wi-Fi access available ($). Accommodates up to 5 guests. Approx. 151-301 ft2. *Some staterooms for guests with disabilities or reduced mobility have twin beds that can’t be converted into king bed."
+            }
+        ],
+        "decks": {
+            "mainIMG": "https://assets.vacationstogo.com/images/deck_plans_profiles/984P20161116153833.jpg",
+            "decks": [
+                {
+                    "deck": "Deck 20",
+                    "href": "/deck_plans/MSC_Seaside/Deck_20.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 19",
+                    "href": "/deck_plans/MSC_Seaside/Deck_19.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 18",
+                    "href": "/deck_plans/MSC_Seaside/Deck_18.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 16",
+                    "href": "/deck_plans/MSC_Seaside/Deck_16.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 15",
+                    "href": "/deck_plans/MSC_Seaside/Deck_15.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 14",
+                    "href": "/deck_plans/MSC_Seaside/Deck_14.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 13",
+                    "href": "/deck_plans/MSC_Seaside/Deck_13.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 12",
+                    "href": "/deck_plans/MSC_Seaside/Deck_12.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 11",
+                    "href": "/deck_plans/MSC_Seaside/Deck_11.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 10",
+                    "href": "/deck_plans/MSC_Seaside/Deck_10.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 9",
+                    "href": "/deck_plans/MSC_Seaside/Deck_9.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 8",
+                    "href": "/deck_plans/MSC_Seaside/Deck_8.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 7",
+                    "href": "/deck_plans/MSC_Seaside/Deck_7.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 6",
+                    "href": "/deck_plans/MSC_Seaside/Deck_6.cfm?deal=34588"
+                },
+                {
+                    "deck": "Deck 5",
+                    "href": "/deck_plans/MSC_Seaside/Deck_5.cfm?deal=34588"
+                }
+            ],
+            "raw": "<head></head><body><div id=\"deckPlan\">\n\n     <span>\n\n      \n              <img src=\"https://assets.vacationstogo.com/images/deck_plans_profiles/984P20161116153833.jpg\" alt=\"MSC Seaside\" style=\"max-width:100%; height:auto;\">\n            \n\n    </span>\n\n\n    \n\n\n     \n     <span class=\"inline-block column separation\" style=\"margin-left:100px;line-height:2em;\">\n      \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_20.cfm?deal=34588\" class=\"deck-detailLink\">Deck 20</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_19.cfm?deal=34588\" class=\"deck-detailLink\">Deck 19</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_18.cfm?deal=34588\" class=\"deck-detailLink\">Deck 18</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_16.cfm?deal=34588\" class=\"deck-detailLink\">Deck 16</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_15.cfm?deal=34588\" class=\"deck-detailLink\">Deck 15</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_14.cfm?deal=34588\" class=\"deck-detailLink\">Deck 14</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_13.cfm?deal=34588\" class=\"deck-detailLink\">Deck 13</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_12.cfm?deal=34588\" class=\"deck-detailLink\">Deck 12</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_11.cfm?deal=34588\" class=\"deck-detailLink\">Deck 11</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_10.cfm?deal=34588\" class=\"deck-detailLink\">Deck 10</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_9.cfm?deal=34588\" class=\"deck-detailLink\">Deck 9</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_8.cfm?deal=34588\" class=\"deck-detailLink\">Deck 8</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_7.cfm?deal=34588\" class=\"deck-detailLink\">Deck 7</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_6.cfm?deal=34588\" class=\"deck-detailLink\">Deck 6</a><br>\n          \n\n            <a href=\"/deck_plans/MSC_Seaside/Deck_5.cfm?deal=34588\" class=\"deck-detailLink\">Deck 5</a><br>\n          \n     </span>\n\n    </div>  \n\n    </body>"
+        },
+        "dining": [
+            {
+                "textHTML": "\n<strong>Main Restaurant</strong><br>\n<i>Cuisine</i>: Continental<br><i>Dress Code</i>: 2 formal nights on 7-day sailings, other nights 'resort casual' after 6 p.m.\n<br><i>Surcharge</i>: No<br><i>Reservations Required</i>: Yes<br><i>Hours</i><br>Breakfast: 7:30 a.m. - 9:30 a.m.\n<br>Lunch: 12:00 p.m. - 1:00 p.m.\n<br>Dinner:\n<br><b>Early</b>\n- 5:30 p.m.,\n<b>Late</b>\n- 8:30 p.m.\n",
+                "image": "https://assets.vacationstogo.com/images/dining/4794.jpg"
+            },
+            {
+                "textHTML": "\n<strong>Butcher's Cut</strong><br>\n<i>Cuisine</i>: Steakhouse<br><i>Dress Code</i>: 2 formal nights on 7-day sailings, other nights 'resort casual' after 6 p.m.\n<br><i>Surcharge</i>: Yes, a la carte<br><i>Reservations Required</i>: Yes<br><i>Hours</i><br>Check onboard for hours\n",
+                "image": "https://assets.vacationstogo.com/images/dining/4796.jpg"
+            },
+            {
+                "textHTML": "\n<strong>Kaito Teppanyaki</strong><br>\n<i>Cuisine</i>: Sushi/Teppanyaki<br><i>Dress Code</i>: Casual\n<br><i>Surcharge</i>: Yes, check onboard for surcharge<br><i>Reservations Required</i>: No<br><i>Hours</i><br>Check onboard for hours\n",
+                "image": "https://assets.vacationstogo.com/images/dining/4797.jpg"
+            },
+            {
+                "textHTML": "\n<strong>The Colonial Buffet &amp; Pizzeria</strong><br>\n<i>Cuisine</i>: Buffet<br><i>Dress Code</i>: Casual<br><i>Hours</i><br>Breakfast: 6:30 a.m. - noon<br>Lunch: 12:00 p.m. - 6:00 p.m.\n<br>Dinner: 7:00 p.m. - 10:00 p.m.<br>Midnight Snack: midnight - 2:00 a.m.\n",
+                "image": "https://assets.vacationstogo.com/images/dining/4798.jpg"
+            }
+        ],
+        "ports": [
+            {
+                "raw": "\n<td width=\"300\" valign=\"top\">\n<img src=\"https://assets.vacationstogo.com/images/ports/275/305.jpg\" style=\"max-width:100%;\">\n</td>\n<td valign=\"top\">\n<b>Port Canaveral, FL</b><br>\n<span class=\"port_description\">\nCruises from Port Canaveral depart year-round.\n<p>\nPort Canaveral, FL is about an hour's drive east of Orlando, two hours from Tampa and two and a half hours from Jacksonville. Tallahassee is just under five hours to the north. Port Canaveral is the closest city to Disney World and the other theme parks in Orlando, and is next to Cape Canaveral Kennedy Space Center. A wide variety of activities are available near the port, including several miles of beaches and parks, boating, fishing, shopping and several restaurants.</p>\n<a href=\"cruiseports/viewport.cfm?port=305\" target=\"_blank\" style=\"white-space:nowrap;\">\nMore info\n</a>\n</span>\n</td>\n",
+                "portName": "Port Canaveral, FL",
+                "info": "Port Canaveral, FL is about an hour's drive east of Orlando, two hours from Tampa and two and a half hours from Jacksonville. Tallahassee is just under five hours to the north. Port Canaveral is the closest city to Disney World and the other theme parks in Orlando, and is next to Cape Canaveral Kennedy Space Center. A wide variety of activities are available near the port, including several miles of beaches and parks, boating, fishing, shopping and several restaurants.",
+                "caption": "Cruises from Port Canaveral depart year-round.",
+                "image": "https://assets.vacationstogo.com/images/ports/275/305.jpg"
+            },
+            {
+                "raw": "\n<td width=\"300\" valign=\"top\">\n<img src=\"https://assets.vacationstogo.com/images/ports/275/2621.jpg\" style=\"max-width:100%;\">\n</td>\n<td valign=\"top\">\n<b>Ocean Cay Marine Reserve, Bahamas</b><br>\n<span class=\"port_description\">\nLocated 20 miles south of Bimini, the Ocean Cay MSC Marine Reserve is an exclusive getaway that provides some of the finest beaches in the world and offers a variety of Caribbean-inspired experiences. The island is 95-acres of pristine beach front and Marine Reserve land full of distinguishing Caribbean features like a Bahamian village, Jamaica Dogwood trees, Mangroves, Beach Morning Glory, and various other plants around the island. A seafront pier allows passengers to step off the ship and right onto the island. Ocean Cay Marine Reserve boasts a unique night life with live music and entertainment found in large amphitheatre. There are also many restaurants and bars that guests...\n<a href=\"cruiseports/viewport.cfm?port=2621\" target=\"_blank\" style=\"white-space:nowrap;\">\nMore info\n</a>\n</span>\n</td>\n",
+                "portName": "Ocean Cay Marine Reserve, Bahamas",
+                "info": "",
+                "caption": "Located 20 miles south of Bimini, the Ocean Cay MSC Marine Reserve is an exclusive getaway that provides some of the finest beaches in the world and offers a variety of Caribbean-inspired experiences. The island is 95-acres of pristine beach front and Marine Reserve land full of distinguishing Caribbean features like a Bahamian village, Jamaica Dogwood trees, Mangroves, Beach Morning Glory, and various other plants around the island. A seafront pier allows passengers to step off the ship and right onto the island. Ocean Cay Marine Reserve boasts a unique night life with live music and entertainment found in large amphitheatre. There are also many restaurants and bars that guests...",
+                "image": "https://assets.vacationstogo.com/images/ports/275/2621.jpg"
+            },
+            {
+                "raw": "\n<td width=\"300\" valign=\"top\">\n<img src=\"https://assets.vacationstogo.com/images/ports/275/230.jpg\" style=\"max-width:100%;\">\n</td>\n<td valign=\"top\">\n<b>St. Maarten</b><br>\n<span class=\"port_description\">\nChristopher Columbus' sighting first brought European attention to this island in 1493. Today, St. Maarten flies two flags, making the island part-French and part-Dutch. Cruise ships more commonly call on the Dutch side of St. Maarten, known for its year-round sunshine, slew of shopping centers and buzzing nightlife. Visitors can voyage the Caribbean aboard a catamaran, kayak or Jet Ski. Island outings include all-terrain vehicle adventures, culinary tours and snorkeling or scuba diving trips. Walking and biking tours explore the historic capital, Philipsburg, and luxury yachts and sailboats offer private charters for enhanced relaxation.\n<a href=\"cruiseports/viewport.cfm?port=230\" target=\"_blank\" style=\"white-space:nowrap;\">\nMore info\n</a>\n</span>\n</td>\n",
+                "portName": "St. Maarten",
+                "info": "",
+                "caption": "Christopher Columbus' sighting first brought European attention to this island in 1493. Today, St. Maarten flies two flags, making the island part-French and part-Dutch. Cruise ships more commonly call on the Dutch side of St. Maarten, known for its year-round sunshine, slew of shopping centers and buzzing nightlife. Visitors can voyage the Caribbean aboard a catamaran, kayak or Jet Ski. Island outings include all-terrain vehicle adventures, culinary tours and snorkeling or scuba diving trips. Walking and biking tours explore the historic capital, Philipsburg, and luxury yachts and sailboats offer private charters for enhanced relaxation.",
+                "image": "https://assets.vacationstogo.com/images/ports/275/230.jpg"
+            },
+            {
+                "raw": "\n<td width=\"300\" valign=\"top\">\n<img src=\"https://assets.vacationstogo.com/images/ports/275/9.jpg\" style=\"max-width:100%;\">\n</td>\n<td valign=\"top\">\n<b>Antigua</b><br>\n<span class=\"port_description\">\nPart of the eastern Caribbean's Leeward Islands, Antigua was discovered and named by Christopher Columbus in 1493. The sun-soaked isle is small at just 108 square miles, but it boasts 365 beaches and crystal-clear water. History buffs will want to tour Nelson's Dockyard National Park, where one of the great admirals of the 18th century kept his fleet. The UNESCO World Heritage Site has been continuously in operation since 1745 and displays a telescope once used by Nelson himself. Other visitors might opt to lounge on one of the white-sand beaches, partake in water sports or go for a horseback ride along the shore. Hike up to Shirley Heights, a...\n<a href=\"cruiseports/viewport.cfm?port=9\" target=\"_blank\" style=\"white-space:nowrap;\">\nMore info\n</a>\n</span>\n</td>\n",
+                "portName": "Antigua",
+                "info": "",
+                "caption": "Part of the eastern Caribbean's Leeward Islands, Antigua was discovered and named by Christopher Columbus in 1493. The sun-soaked isle is small at just 108 square miles, but it boasts 365 beaches and crystal-clear water. History buffs will want to tour Nelson's Dockyard National Park, where one of the great admirals of the 18th century kept his fleet. The UNESCO World Heritage Site has been continuously in operation since 1745 and displays a telescope once used by Nelson himself. Other visitors might opt to lounge on one of the white-sand beaches, partake in water sports or go for a horseback ride along the shore. Hike up to Shirley Heights, a...",
+                "image": "https://assets.vacationstogo.com/images/ports/275/9.jpg"
+            },
+            {
+                "raw": "\n<td width=\"300\" valign=\"top\">\n<img src=\"https://assets.vacationstogo.com/images/ports/275/693.jpg\" style=\"max-width:100%;\">\n</td>\n<td valign=\"top\">\n<b>Fort-de-France, Martinique</b><br>\n<span class=\"port_description\">\nMountainous Martinique is one of the most scenic and colorful islands in the Caribbean. Acres of lush tropical vegetation and an abundance of flowers vie with vast green stretches of banana plantations, pineapple and sugarcane fields. With 425 square miles, Martinique is the largest of the Windward Islands. Boasting a combination of stunning scenery and French-Caribbean ambiance, one can easily see why it appeals to a wide spectrum of visitors.\n<a href=\"cruiseports/viewport.cfm?port=693\" target=\"_blank\" style=\"white-space:nowrap;\">\nMore info\n</a>\n</span>\n</td>\n",
+                "portName": "Fort-de-France, Martinique",
+                "info": "",
+                "caption": "Mountainous Martinique is one of the most scenic and colorful islands in the Caribbean. Acres of lush tropical vegetation and an abundance of flowers vie with vast green stretches of banana plantations, pineapple and sugarcane fields. With 425 square miles, Martinique is the largest of the Windward Islands. Boasting a combination of stunning scenery and French-Caribbean ambiance, one can easily see why it appeals to a wide spectrum of visitors.",
+                "image": "https://assets.vacationstogo.com/images/ports/275/693.jpg"
+            }
+        ],
+        "wifi": {
+            "tableHTML": "\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">\n\t\t\t\t<strong>Package Type</strong></td>\n\t\t\t<td>\n\t\t\t\t<strong>Description</strong></td>\n\t\t\t<td>\n\t\t\t\t<strong>Cost</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">\n\t\t\t\tBrowse</td>\n\t\t\t<td>\n\t\t\t\tIdeal for social users. Receive full web browsing, access to the most popular social networks and chat APPs, and check email with unlimited MB throughout your cruise.</td>\n\t\t\t<td style=\"white-space:nowrap;\">\n\t\t\t\t1 Device - $111.93 pp<br>\n\t\t\t\t2 Devices - $212.66 pp<br>\n\t\t\t\t3 Devices - $302.26 pp<br>\n\t\t\t\t4 Devices - $380.59 pp</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">\n\t\t\t\tBrowse &amp; Stream</td>\n\t\t\t<td>\n\t\t\t\tPerfect for heavy users. Permits full web browsing, access to most popular social networks and chat APPs, check email and video chat.</td>\n\t\t\t<td style=\"white-space:nowrap;\">\n\t\t\t\t1 Device - $139.93 pp<br>\n\t\t\t\t2 Devices - $268.66 pp<br>\n\t\t\t\t3 Devices - $386.26 pp<br>\n\t\t\t\t4 Devices - $492.59 pp</td>\n\t\t</tr>\n\t",
+            "info1": "Please note: Connection speed onboard is not as fast as what you have at home. Intermittent connectivity may be experienced from time to time depending on the ship's location or weather conditions.",
+            "info2": "* Displaying onboard prices for a 7-night Caribbean cruise on MSC Meraviglia. Prices may vary by destination, sailing date, and length of cruise and are subject to change.",
+            "raw": "<head></head><body><h2 align=\"center\">\n      MSC Seaside Wireless Internet \n      </h2>\n\n      <table border=\"1\" cellpadding=\"2\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">\n\t\t\t\t<strong>Package Type</strong></td>\n\t\t\t<td>\n\t\t\t\t<strong>Description</strong></td>\n\t\t\t<td>\n\t\t\t\t<strong>Cost</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">\n\t\t\t\tBrowse</td>\n\t\t\t<td>\n\t\t\t\tIdeal for social users. Receive full web browsing, access to the most popular social networks and chat APPs, and check email with unlimited MB throughout your cruise.</td>\n\t\t\t<td style=\"white-space:nowrap;\">\n\t\t\t\t1 Device - $111.93 pp<br>\n\t\t\t\t2 Devices - $212.66 pp<br>\n\t\t\t\t3 Devices - $302.26 pp<br>\n\t\t\t\t4 Devices - $380.59 pp</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td nowrap=\"nowrap\">\n\t\t\t\tBrowse &amp; Stream</td>\n\t\t\t<td>\n\t\t\t\tPerfect for heavy users. Permits full web browsing, access to most popular social networks and chat APPs, check email and video chat.</td>\n\t\t\t<td style=\"white-space:nowrap;\">\n\t\t\t\t1 Device - $139.93 pp<br>\n\t\t\t\t2 Devices - $268.66 pp<br>\n\t\t\t\t3 Devices - $386.26 pp<br>\n\t\t\t\t4 Devices - $492.59 pp</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<p>\n\t<strong>Please note:</strong> Connection speed onboard is not as fast as what you have at home. Intermittent connectivity may be experienced from time to time depending on the ship's location or weather conditions.</p>\n<p>\n\t* Displaying onboard prices for a 7-night Caribbean cruise on MSC Meraviglia. Prices may vary by destination, sailing date, and length of cruise and are subject to change.</p>\n</body>"
+        },
+        "needs": {
+            "accessibleCabins": "\n<thead>\n<tr>\n<td colspan=\"6\" class=\"ship_header\">Accessible Cabins</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td colspan=\"6\">\nBelow is a list of accessible cabins on MSC Seaside.\n<br>\n</td>\n</tr>\n<tr>\n<th width=\"25px;\">&nbsp;</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Inside<br>Category</th>\n<th style=\"vertical-align: bottom;\">Cabin<br>Number</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Stateroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Bathroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom;\">Notes</th>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>10079</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>10096</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>10132</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>10160</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>10213</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>11079</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>11097</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>11128</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>11171</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>11211</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12071</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12086</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12089</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12122</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12163</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12203</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13066</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13073</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13086</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13122</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13167</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13198</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>14087</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>14120</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>14163</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>15063</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>15100</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>15139</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nYIN\n</td>\n<td>16039</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nYIN\n</td>\n<td>18026</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nYIN\n</td>\n<td>18033</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>5020</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>5048</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>5051</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>5150</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>9075</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>9093</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>9126</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>9161</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>9197</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr><td colspan=\"6\">&nbsp;</td></tr>\n<tr>\n<th width=\"25px;\">&nbsp;</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Oceanview<br>Category</th>\n<th style=\"vertical-align: bottom;\">Cabin<br>Number</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Stateroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Bathroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom;\">Notes</th>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5160</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5162</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5164</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5166</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5167</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5169</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5171</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5173</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr><td colspan=\"6\">&nbsp;</td></tr>\n<tr>\n<th width=\"25px;\">&nbsp;</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Balcony<br>Category</th>\n<th style=\"vertical-align: bottom;\">Cabin<br>Number</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Stateroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Bathroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom;\">Notes</th>\n</tr>\n<tr>\n<td></td>\n<td>\nBR1\n</td>\n<td>10224</td>\n<td></td>\n<td></td>\n<td>\nConnects with cabin 10222\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nBR3\n</td>\n<td>14233</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr><td colspan=\"6\">&nbsp;</td></tr>\n<tr>\n<th width=\"25px;\">&nbsp;</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Suite<br>Category</th>\n<th style=\"vertical-align: bottom;\">Cabin<br>Number</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Stateroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Bathroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom;\">Notes</th>\n</tr>\n<tr>\n<td></td>\n<td>\nYC1\n</td>\n<td>18024</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nYC1\n</td>\n<td>18029</td>\n<td></td>\n<td></td>\n<td>\nConnects with cabin 18025\n</td>\n</tr>\n</tbody>\n",
+            "specialNeedsHTML1": "\n<tbody><tr>\n<td colspan=\"2\" class=\"ship_header\">\nTravelers with Limited Mobility\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nWheelchair accessible cabins\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nCabins with widened stateroom door\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nCabins with widened bathroom door\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nNumber of inside accessible cabins\n</td>\n<td align=\"right\">\n41\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nNumber of outside accessible cabins\n</td>\n<td align=\"right\">\n8\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nNumber of veranda accessible cabins\n</td>\n<td align=\"right\">\n1\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nNumber of suite accessible cabins\n</td>\n<td align=\"right\">\n2\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nElevators support wheelchairs\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nElevators support scooters\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nElevators support electric wheelchairs\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nWheelchair access to all public rooms\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nRamps to all passenger areas, all decks\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nAutomatic doors to all public areas, all decks\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nElevator access to all passenger decks\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nAccessible public restrooms on every deck\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nPier assistance offered\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n</tbody>",
+            "specialNeedsHTML2": "\n<tbody><tr>\n<td colspan=\"2\" class=\"ship_header\">\nTravelers who are Hard of Hearing or Deaf\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nAssistive listening device available upon request\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Upon request</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nInfrared system in show area to amplify dialogue\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Upon request</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nTTY phone in stateroom\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Kit available upon request, requires notice before cruise</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nShake awake or flashing light alarm clock on request\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Kit available upon request, requires notice before cruise</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nClosed caption decoders on televisions\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Kit available upon request, requires notice before cruise</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nFlashing light door buzzers available\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Kit available upon request, requires notice before cruise</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" class=\"ship_header\">\nTravelers with Low Vision or who are Blind\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nElevators have braille, tactile and audible arrival alerts\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: No audible alerts</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nService animals allowed onboard\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Requires documentation</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nTactile and braille signage in public areas\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" class=\"ship_header\">\nTravelers with Diabetes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\n24-Hour room service\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nRefrigerator in cabin\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nSugar-Free desserts available\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nDoctor on board\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n</tbody>",
+            "raw": "<head></head><body><h2 class=\"special_needs\">\nMSC Seaside Special Needs Info\n</h2>\n<br>\n<div class=\"row\">\n<div class=\"col-6\">\n<table id=\"table_ship_special_needs\" class=\"table table-striped table-hover\">\n<tbody><tr>\n<td colspan=\"2\" class=\"ship_header\">\nTravelers with Limited Mobility\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nWheelchair accessible cabins\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nCabins with widened stateroom door\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nCabins with widened bathroom door\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nNumber of inside accessible cabins\n</td>\n<td align=\"right\">\n41\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nNumber of outside accessible cabins\n</td>\n<td align=\"right\">\n8\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nNumber of veranda accessible cabins\n</td>\n<td align=\"right\">\n1\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nNumber of suite accessible cabins\n</td>\n<td align=\"right\">\n2\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nElevators support wheelchairs\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nElevators support scooters\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nElevators support electric wheelchairs\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nWheelchair access to all public rooms\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nRamps to all passenger areas, all decks\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nAutomatic doors to all public areas, all decks\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nElevator access to all passenger decks\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nAccessible public restrooms on every deck\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nPier assistance offered\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n</tbody></table>\n</div>\n<div class=\"col-6\">\n<table id=\"table_ship_special_needs\" class=\"table table-striped table-hover\">\n<tbody><tr>\n<td colspan=\"2\" class=\"ship_header\">\nTravelers who are Hard of Hearing or Deaf\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nAssistive listening device available upon request\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Upon request</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nInfrared system in show area to amplify dialogue\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Upon request</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nTTY phone in stateroom\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Kit available upon request, requires notice before cruise</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nShake awake or flashing light alarm clock on request\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Kit available upon request, requires notice before cruise</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nClosed caption decoders on televisions\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Kit available upon request, requires notice before cruise</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nFlashing light door buzzers available\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Kit available upon request, requires notice before cruise</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" class=\"ship_header\">\nTravelers with Low Vision or who are Blind\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nElevators have braille, tactile and audible arrival alerts\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: No audible alerts</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nService animals allowed onboard\n<div align=\"left\" style=\"padding-left:25px;\">\n<em>Note: Requires documentation</em>\n</div>\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nTactile and braille signage in public areas\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" class=\"ship_header\">\nTravelers with Diabetes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\n24-Hour room service\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nRefrigerator in cabin\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nSugar-Free desserts available\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n<tr>\n<td align=\"left\">\nDoctor on board\n</td>\n<td align=\"right\">\nYes\n</td>\n</tr>\n</tbody></table>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12\">\n<table id=\"table_ship_accessible_cabins\" border=\"0\" class=\"table table-striped table-hover\">\n<thead>\n<tr>\n<td colspan=\"6\" class=\"ship_header\">Accessible Cabins</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td colspan=\"6\">\nBelow is a list of accessible cabins on MSC Seaside.\n<br>\n</td>\n</tr>\n<tr>\n<th width=\"25px;\">&nbsp;</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Inside<br>Category</th>\n<th style=\"vertical-align: bottom;\">Cabin<br>Number</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Stateroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Bathroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom;\">Notes</th>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>10079</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>10096</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>10132</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>10160</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>10213</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>11079</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>11097</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>11128</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>11171</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>11211</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12071</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12086</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12089</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12122</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12163</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>12203</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13066</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13073</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13086</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13122</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13167</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>13198</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>14087</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>14120</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>14163</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>15063</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>15100</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR2\n</td>\n<td>15139</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nYIN\n</td>\n<td>16039</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nYIN\n</td>\n<td>18026</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nYIN\n</td>\n<td>18033</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>5020</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>5048</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>5051</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>5150</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>9075</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>9093</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>9126</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>9161</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nIR1\n</td>\n<td>9197</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr><td colspan=\"6\">&nbsp;</td></tr>\n<tr>\n<th width=\"25px;\">&nbsp;</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Oceanview<br>Category</th>\n<th style=\"vertical-align: bottom;\">Cabin<br>Number</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Stateroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Bathroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom;\">Notes</th>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5160</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5162</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5164</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5166</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5167</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5169</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5171</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nOR1\n</td>\n<td>5173</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr><td colspan=\"6\">&nbsp;</td></tr>\n<tr>\n<th width=\"25px;\">&nbsp;</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Balcony<br>Category</th>\n<th style=\"vertical-align: bottom;\">Cabin<br>Number</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Stateroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Bathroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom;\">Notes</th>\n</tr>\n<tr>\n<td></td>\n<td>\nBR1\n</td>\n<td>10224</td>\n<td></td>\n<td></td>\n<td>\nConnects with cabin 10222\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nBR3\n</td>\n<td>14233</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr><td colspan=\"6\">&nbsp;</td></tr>\n<tr>\n<th width=\"25px;\">&nbsp;</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Suite<br>Category</th>\n<th style=\"vertical-align: bottom;\">Cabin<br>Number</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Stateroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom; white-space:nowrap;\">Bathroom<br>Door<br>Width</th>\n<th style=\"vertical-align: bottom;\">Notes</th>\n</tr>\n<tr>\n<td></td>\n<td>\nYC1\n</td>\n<td>18024</td>\n<td></td>\n<td></td>\n<td>\n&nbsp;\n</td>\n</tr>\n<tr>\n<td></td>\n<td>\nYC1\n</td>\n<td>18029</td>\n<td></td>\n<td></td>\n<td>\nConnects with cabin 18025\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div> </body>"
+        },
+        "weather": {
+            "tableDiv": "\n<thead class=\"vtg-thead-dark\">\n<tr>\n<td colspan=\"2\" bgcolor=\"white\" style=\"border-top:0px!important;\"></td>\n<td colspan=\"4\" bgcolor=\"white\" style=\"border-top:0px!important; text-align:center;\">\n<div id=\"nav2\">\n<a href=\"/fastdeal_tab.cfm?type=weather&amp;deal=34588&amp;temp=c\" onclick=\"event.preventDefault(); doWeather();\" id=\"WeatherLink\">Change to °C/Centimeters</a>\n</div>\n</td>\n<td bgcolor=\"white\" style=\"border-top:0px!important;\"></td>\n</tr>\n<tr>\n<td colspan=\"2\" bgcolor=\"white\" style=\"border:0px!important;\"></td>\n<td colspan=\"3\" style=\"border:0px; padding-bottom:0px!important;\"><center>\nTemperature (°F)\n</center></td>\n<td style=\"border:0px; padding-bottom:0px; height:30px!important; text-align:center;\">\nPrecipitation\n</td>\n<td bgcolor=\"white\" style=\"border:0px!important;\"></td>\n</tr>\n<tr>\n<td style=\"border:0px!important;\">Port</td>\n<td style=\"border:0px!important;\">Date</td>\n<td style=\"border:0px!important;\">Avg</td>\n<td style=\"border:0px!important;\">High</td>\n<td style=\"border:0px!important;\">Low</td>\n<td style=\"border:0px!important; text-align:center;\" width=\"140\">\n(Inches)\n</td>\n<td style=\"border:0px!important; text-align:center;\">Humidity</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"tr_content\">\n<td>Port Canaveral, FL</td>\n<td nowrap=\"\">\nSunday, November 19\n</td>\n<td align=\"center\">\n67\n</td>\n<td align=\"center\">\n75\n</td>\n<td align=\"center\">\n59\n</td>\n<td align=\"center\">\n3\n</td>\n<td align=\"center\">\n86\n</td>\n</tr>\n<tr class=\"tr_content\">\n<td>Ocean Cay Marine Reserve, Bahamas</td>\n<td nowrap=\"\">\nMonday, November 20\n</td>\n<td align=\"center\">\n74\n</td>\n<td align=\"center\">\n78\n</td>\n<td align=\"center\">\n69\n</td>\n<td align=\"center\">\n2.6\n</td>\n<td align=\"center\">\n-\n</td>\n</tr>\n<tr class=\"tr_content\">\n<td>St. Maarten</td>\n<td nowrap=\"\">\nThursday, November 23\n</td>\n<td align=\"center\">\n82\n</td>\n<td align=\"center\">\n85\n</td>\n<td align=\"center\">\n78\n</td>\n<td align=\"center\">\n5\n</td>\n<td align=\"center\">\n78\n</td>\n</tr>\n<tr class=\"tr_content\">\n<td>Antigua</td>\n<td nowrap=\"\">\nFriday, November 24\n</td>\n<td align=\"center\">\n80\n</td>\n<td align=\"center\">\n84\n</td>\n<td align=\"center\">\n76\n</td>\n<td align=\"center\">\n-\n</td>\n<td align=\"center\">\n79\n</td>\n</tr>\n<tr class=\"tr_content\">\n<td>Fort-de-France, Martinique</td>\n<td nowrap=\"\">\nSaturday, November 25\n</td>\n<td align=\"center\">\n80\n</td>\n<td align=\"center\">\n85\n</td>\n<td align=\"center\">\n74\n</td>\n<td align=\"center\">\n-\n</td>\n<td align=\"center\">\n93\n</td>\n</tr>\n</tbody>\n"
+        }
+    },
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+        "content-length": "96696",
+        "content-type": "text/html; charset=utf-8"
+    },
+    "config": {
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "adapter": [
+            "xhr",
+            "http"
+        ],
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "params": {
+            "deal": 34588,
+            "ship": 984
+        },
+        "method": "get",
+        "url": "https://cruiseapi-ef5d23576a9c.herokuapp.com/cruise"
+    },
+    "request": {}
+}

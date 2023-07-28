@@ -41,21 +41,21 @@ function Posts({posts}) {
     return posts.map( (container, i) => {
       const id = container.id;
       const post = container.post;
-      return <div key={id} className="my-8 rounded shadow-sm shadow-gray-900 dark:shadow-gray-900  bg-gray-900 duration-300 hover:-translate-y-1">
+      return <div key={id} className="my-1 duration-300 bg-blue-900 border-2 border-gray-800 rounded shadow-sm shadow-gray-500 border-spacing-10 dark:shadow-gray-900 hover:-translate-y-1">
       {/* <!-- Clickable Area --> */}
       <a _href="link" className="cursor-pointer">
-        <figure>
+        <figure className="">
           {/* <!-- Image --> */}
           <img
             // url={post.featureImage}
             alt={post.heading}
             src={post.featureIMG}
-            className="rounded-t h-72 w-full object-cover"
+            className="object-cover w-full rounded-t h-72"
           />
 
           <figcaption className="p-4">
             {/* <!-- Title --> */}
-            <p className="text-lg mb-4 font-bold leading-relaxed text-gray-500 dark:text-gray-300">
+            <p className="mb-4 text-lg font-bold leading-relaxed text-gray-500 dark:text-gray-300">
               {post.heading}
               {/* <!-- Post Title --> */}
             </p>
@@ -69,12 +69,12 @@ function Posts({posts}) {
         </figure>
       </a>
       <div className="relative p-4">
-        <i className="fa fa-star text-xs text-gray-100">
+        <i className="text-xs text-gray-100 fa fa-star">
           
           {post.extras.length} | extras
         </i>
       </div>
-      <Link to={`post/${id}`}className="bg-gray-900 m-4"
+      <Link to={`post/${id}`}className="m-4 text-white bg-gray-900"
       
       >
         Learn More
@@ -85,9 +85,9 @@ function Posts({posts}) {
   
   return (
     <>
-      <section className="bg-gray-900 dark:bg-gray-900 py-10 px-12">
+      <section className="px-1 py-1 bg-gray-900 dark:bg-gray-900 ">
         {/* <!-- Card Grid --> */}
-        <div className="grid grid-flow-row gap-8 text-neutral-600 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div className="grid grid-flow-row gap-2 text-neutral-600 sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
           {renderPosts()}
         </div>
       </section>

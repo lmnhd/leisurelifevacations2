@@ -14,12 +14,16 @@ export async function LoadPost({params}){
     console.log(params.id)
     const post = await getPost(params.id);
     console.log(post)
-    return post;
+    return {id: params.id, post:post};
     
 }
 function Post({post, update, editdates,editsections,editextras}) {
 var _post = {}
-  const loadedPost = useLoaderData();
+  const data = useLoaderData();
+  console.log(data)
+  
+  const loadedPost = data.post;
+  const id = data.id;
   if(update){
     _post = post !== null ? post : PostFormData
   }else{
@@ -38,22 +42,24 @@ var _post = {}
     <>
    
 
-    <Card className="flex flex-auto gap-6 mx-6">
+    <Card className="flex flex-auto gap-6 lg:mx-6 items-center" >
     <div className="flex flex-row flex-wrap gap-2">
-      <p className="p-2 text-lg text-center font-body">Call Now For More Information! </p>
+      <p className="p-2 text-lg text-center font-body">Call Now to Book! </p>
       <Typography
       className="justify-end p-2 text-right shadow-sm "
       variant="h3">(904) 438 - 8121</Typography>
     </div>
-      <Typography variant="h1">{heading}</Typography>
+      <Typography 
+      className="whitespace-pre-wrap text-center font-sans shadow-md font-extralight align-middle w-full lg:w-3/4"
+      variant="h1">{heading}</Typography>
       <img className="w-full" src={featureIMG} alt="Post Featured" />
       <Typography variant="lead"
-      className="text-center"
+      className="whitespace-pre-wrap lg:w-2/3 text-left"
       >{summary}</Typography>
       <br/>
       <Typography 
       variant="lead"
-      className="text-yellow-900 font-body bg-gray-50"
+      className="text-blue-gray-900 font-body lg:w-3/4 font-semibold justify-center lg:ml-10 whitespace-pre-wrap lg:p-6 bg-gray-50"
       >
         <p>{body}</p>
 
@@ -72,8 +78,10 @@ var _post = {}
         </div>
       ))}
 
-      <div
-      className="flex flex-row flex-wrap items-stretch gap-8 p-8 bg-gray-100"
+      
+    </Card>
+    <div
+      className="grid grid-flow-row  border-l-4 border-spacing-4 border-black flex-wrap items-start gap-6 p-8 bg-gray-100"
       >
         <i className="fa fa-calendar fa-5x"></i>
         {/* <Typography
@@ -81,14 +89,18 @@ var _post = {}
         className="font-thin"
         >Dates:</Typography> */}
         {dates.map((date, index) => (
-          <div key={index}>
+          <div key={index}
+          className="flex flex-col border-black border-spacing-2 bg-blue-gray-300 align-middle shadow-sm rounded-sm"
+          >
             <Typography
-            variant="h4"
-            className="font-serif font-semibold"
-            >{date.type}</Typography>
+            variant="h5"
+            className="bg-blue-gray-50"
+            >{date.date}</Typography>
             <Typography
             variant="h6"
-            >{date.date}</Typography>
+            className="font-serif font-semibold p-3 text-white"
+            >{date.type}</Typography>
+            
           </div>
         ))}
       </div>
@@ -107,7 +119,6 @@ var _post = {}
           </ul>
         </Card>
       ))}
-    </Card>
       {/* <h1>Post</h1>
       <div><pre 
       className="font-serif text-center w-72"

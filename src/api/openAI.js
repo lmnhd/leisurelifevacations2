@@ -4,10 +4,10 @@ import { useState, useRef } from "react";
 import axios from "axios";
 //import sharp from "sharp";
 import { convertToSquarePNG, readImageAsBytes, resizeImageToSquare } from "../ImageReader";
-import Jimp from "jimp";
+//import Jimp from "jimp";
 import { getStorage, ref, uploadBytes } from "firebase/storage";
-const key = "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";
-const key2 = "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";
+const key = "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";
+
 
 
 
@@ -19,17 +19,20 @@ const configuration = new Configuration({
 const openai = new OpenAIApi(configuration);
 
 export async function davinci(prompt1 = "say hello", temperature = 0.9,cruisLine = '',shipName = '',destination = '') {
+  console.log(prompt1);
+  //return '';
   const response = await openai.createCompletion({
     model: "text-davinci-003",
     prompt: prompt1,
     max_tokens: 2000,
-    temperature: 0.9,
+    temperature: temperature,
   });
   const result = response.data.choices[0].text;
   console.log(result);
   return result;
   //console.log(process.env.REACT_APP_OPENAI_API_KEY)
 }
+
 const uploadFileToGS = (fileName,file) => {
   // Create a root reference
 const storage = getStorage();
@@ -65,16 +68,34 @@ const resizeAndHostImage = async (hostedImage) => {
 
     // generating the Jimp data structure
     // loading an image from an URL
-    const jimpImage = await Jimp.read(hostedImage);
+    //const jimpImage = await Jimp.read(hostedImage);
     
     // transforming jimpImage into its Base64 representation
     // and storing it
-    const image = await jimpImage.getBase64Async(Jimp.MIME_PNG);
+    //const image = await jimpImage.getBase64Async(Jimp.MIME_PNG);
     //Change image size
 
-    image.resize(1024,860)
+    //image.resize(1024,860)
 }
-
+export async function aiCheck(){
+  try{
+    const response = await openai.createCompletion({
+      model: "text-davinci-003",
+      prompt: "Say test succeeded",
+      max_tokens: 2000,
+      temperature: 0.1,
+    })
+    console.log(response)
+  }catch(error){
+    console.error(error)
+  }
+  const response = await openai.createCompletion({
+    model: "text-davinci-003",
+    prompt: "Say test succeeded",
+    max_tokens: 2000,
+    temperature: 0.1,
+  })
+}
 export async function createOriginalImage (prompt){
   const response = await openai.createImage({
     prompt: imagePrompt(prompt),
@@ -214,17 +235,48 @@ let test = "say this is a test.";
 export const postBodyPrompt = (info,cruisLine,shipName,destination) => {
   return `
 ${rolePrompt}
-Generate a paragraph between 50 and 75 words using the following transcript exploring why this cruise would be a memorable experience for anybody needing a fabulous vacation.
+Generate 2 paragraphs between 100 and 200 words using the following transcript exploring why this cruise would be a memorable experience for anybody needing a fabulous vacation.
 
 
 Transcript:
-This information is about the ${cruisLine} cruise  line -  ${shipName} - traveling to ${destination}
+"""This information is about the ${cruisLine} cruise  line -  ${shipName} - traveling to ${destination}"""
 
 """${info}"""
 
 
 `;
 };
+export const postSummaryPrompt = (info,cruisLine,shipName,destination) => {
+  return `
+${rolePrompt}
+Generate a 2 sentence summary about the following transcript.
+
+
+Transcript:
+"""This information is about the ${cruisLine} cruise  line -  ${shipName} - traveling to ${destination}"""
+
+"""${cleanYouTubeTranscript(info)}"""
+
+
+`;
+};
+export const postTitlePrompt = (info,cruiseLine,shipName,destination) => {
+return `
+role: You are an AI administrative assistant specializing in travel and vacations advertising.
+task: Write a catchy 1 sentence title for an advertisement about a cruise using the following data.
+Only mention a date if there is one in the data. Use the name of the ship and destination if possible.
+
+data: """CruiseLine is ${cruiseLine} - Name of ship is ${shipName} - Travel destination is ${destination}"""
+"""${cleanYouTubeTranscript(info)}"""
+`
+}
+
+export const assistantPrompt = (info) => {
+  return `
+  You are an administrative assistant specializing in travel and vacations advertising.
+  ${info}
+  `
+}
 
 
 export const rolePrompt = () => {
